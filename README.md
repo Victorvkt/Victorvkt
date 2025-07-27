@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm 21 years old and originally from Pernambuco. I am currently studying Systems Analysis and Development. Currently, i am improving my skills in [Html, Css, JavaScript, React Native, Boostrap, Tailwind, Git and Git GitHub]..</p>
+<p align="center">I'm 21 years old and originally from Pernambuco, i am currently studying Systems Analysis and Development. Currently, i am improving my skills in [Html, Css, JavaScript, React Native, Boostrap, Tailwind, Git and Git GitHub]..</p>
 
 ###
 
